@@ -1,5 +1,5 @@
 x = 5 #First Digit
-y = 10
+y = 10 #Second Digit
 
 temp = x
 x = y
