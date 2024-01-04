@@ -1,5 +1,5 @@
-x = 5
-y = 10
+x = 5 #First Digit
+y = 10 #Second Digit
 
 temp = x
 x = y
@@ -9,6 +9,7 @@ print('The value of x after swapping: {}'.format(x))
 print('The value of y after swapping: {}'.format(y))
 
 print ("Hello World")
+
 
 def sum(n):
     add = 0
