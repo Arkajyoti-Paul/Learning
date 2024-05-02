@@ -1,6 +1,10 @@
 #no_id{
-    display:block
+    display:block;
 }
 .no_class{
     display: flex;
+}
+
+#noId{
+    display: block;
 }
